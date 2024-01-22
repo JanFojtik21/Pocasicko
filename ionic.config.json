@@ -1,0 +1,7 @@
+{
+  "name": "Pocasicko",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
